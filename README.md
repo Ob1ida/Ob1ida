@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Obaida</h1>
 <h3 align="center">I love data sience and Statistical learning</h3>
 
-- 🌱 I’m currently learning **Sickit-learn,NLP,Data visualization**
+- 🌱 I’m currently learning **Scikit-learn,NLP,Data visualization**
 
 - 💬 Ask me about **Python**
 
