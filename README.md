@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Obaida</h1>
-<h3 align="center">I love data sience and Statistical learning</h3>
+<h3 align="center"></h3>
 
-- 🌱 I’m currently learning **Scikit-learn,NLP,Data visualization**
-
-- 💬 Ask me about **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
